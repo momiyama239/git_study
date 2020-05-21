@@ -4,5 +4,6 @@
 </head>
 <body>
 <?php echo 'データ'; ?>
+<?php echo 'だよ。'; ?>
 </body>
 </html>

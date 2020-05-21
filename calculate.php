@@ -12,5 +12,7 @@ if (is_numeric($_GET['number1']) && is_numeric($_GET['number2'])) {
 </head>
 <body>
 <?php echo $sum_number; ?>
+<?php echo $sum_number; ?>
+<?php echo $sum_number; ?>
 </body>
 </html>
