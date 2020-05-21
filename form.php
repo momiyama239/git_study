@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<title>入力フォーム</title>
+<title>入力 フォーム</title>
 </head>
 <body>
 <form action="calculate.php" method="get">
